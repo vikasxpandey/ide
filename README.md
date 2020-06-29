@@ -9,3 +9,5 @@ SECRET=<your_client_secret>
 ````
 4. Run **npm install** in the root and server directory.
 5. Run **npm start** in the root and server directory.
+
+### Or check out the hosted preview <a href="https://vikasxpandey.github.io/ide">here.</a>
